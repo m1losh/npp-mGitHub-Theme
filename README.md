@@ -1,16 +1,18 @@
-# mGitHub - GitHub theme for Notepad++.
-Based on the official "GitHub Default" theme colors, with minor syntax highlighting tweaks.
+# mGitHub - GitHub Theme for Notepad++
 
-Uses "JetBrains Mono" font, but works well with Consolas, or any other mono font really.
+A theme inspired by the official GitHub Default color scheme, with slight adjustments for enhanced syntax highlighting.
 
 ![mGitHub](https://raw.githubusercontent.com/m1losh/npp-mGitHub-Theme/master/Screenshots/autoit.png)
+> Example: `.au3` file open in **`Notepad++`** with the **`mGitHub`** theme.
+
+The theme defaults to the `JetBrains Mono` font but works well with **Consolas** and most other monospaced fonts. You can change the font globally via the `Style Configurator` or in the `<GlobalStyles>` section of the theme file.
 
 ### Theme Installation:
 1. Download [**`mGitHub.xml`**](https://raw.githubusercontent.com/m1losh/npp-mGitHub-Theme/master/mGitHub.xml).
-2. Run **`Notepad++`**.
-3. Open `Setting -> Import -> Import style theme(s)`.
-4. Choose **`mGitHub.xml`**.
-5. Open `Settings -> Style Configurator` and select theme **`mGitHub.xml`**.
+2. Open **`Notepad++`**.
+3. Navigate to `Settings -> Import -> Import style theme(s)`.
+4. Select **`mGitHub.xml`**.
+5. Go to `Settings -> Style Configurator` and choose the theme **`mGitHub.xml`**.
 6. Click `Save & Close`.
 
 ___
