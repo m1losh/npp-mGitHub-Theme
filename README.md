@@ -3,8 +3,10 @@ Based on the official "GitHub Default" theme colors, with minor syntax highlight
 
 Uses "JetBrains Mono" font, but works well with Consolas, or any other mono font really.
 
+![mGitHub](https://raw.githubusercontent.com/m1losh/npp-mGitHub-Theme/master/Screenshots/autoit.png)
+
 ### Theme Installation:
-1. Download [**`mGitHub.xml`**](https://raw.githubusercontent.com/m1losh/npp-mGitHub-Theme/main/mGitHub.xml).
+1. Download [**`mGitHub.xml`**](https://raw.githubusercontent.com/m1losh/npp-mGitHub-Theme/master/mGitHub.xml).
 2. Run **`Notepad++`**.
 3. Open `Setting -> Import -> Import style theme(s)`.
 4. Choose **`mGitHub.xml`**.
